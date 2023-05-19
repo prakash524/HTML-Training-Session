@@ -39,5 +39,10 @@ Table of Contents
     <td>Activity-6</td>
     <td>Insert the Icon for Web Documents</td>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>Activity-7</td>
+    <td>Title for Web Document</td>
+  </tr>
  </table> 
   
