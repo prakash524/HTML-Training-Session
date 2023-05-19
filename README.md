@@ -29,5 +29,10 @@ Table of Contents
     <td>Activity-4</td>
     <td>Understanding NoScript Tag</td>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>Activity-5</td>
+    <td>Create a External CSS,and link it using Link Tag</td>
+  </tr>
  </table> 
   
