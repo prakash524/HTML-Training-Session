@@ -44,5 +44,10 @@ Table of Contents
     <td>Activity-7</td>
     <td>Title for Web Document</td>
   </tr>
+  <tr>
+    <td>8</td>
+    <td>Activity-8</td>
+    <td>Internal Style Sheet</td>
+  </tr>
  </table> 
   
