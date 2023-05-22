@@ -79,5 +79,10 @@ Table of Contents
     <td>Activity-14</td>
     <td>Provide Border to the same table/td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td>Activity-15</td>
+    <td>Headings from H1 to H6</td>
+  </tr>
  </table> 
   
